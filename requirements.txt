@@ -1,0 +1,9 @@
+# Install branch `random-merges` from subword-nmt clone
+git+ssh://git@github.com/j0ma/subword-nmt.git@random-merges
+git+ssh://git@github.com/j0ma/prepx@main
+git+https://github.com/thammegowda/mtdata
+
+sacrebleu
+fairseq
+pandas
+click
